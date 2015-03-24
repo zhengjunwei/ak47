@@ -18,9 +18,13 @@
 ### 要参考
 - MVC参考:react.js,ember,angular.js
 - 整套参考:ionic,hbuilder,appcan
-- UI参考:amazeui,还有其他的一些晚上确定下来
-- 事件参考:hammer.js fast click等
+- UI参考:amazeui
+- 事件参考:hammer.js fast click Quo JS Touch Js
 - 用到后端数据:列表页,详情页
 - 注册登陆
 - 数据抓取用脚本跑,php抓取数据
 - 利用phonegap调用原生的传感器
+- 
+
+
+
