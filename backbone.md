@@ -1,1 +1,2 @@
 backbone的view类似mediator
+重点研究react.js和ember.js，做分享
