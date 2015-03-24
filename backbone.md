@@ -1,0 +1,1 @@
+backbone的view类似mediator
