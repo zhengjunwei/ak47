@@ -1,2 +1,3 @@
 backbone的view类似mediator
 重点研究react.js和ember.js，做分享
+canvas，听同事说这个可以用到提高性能
