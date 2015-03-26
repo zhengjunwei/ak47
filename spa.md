@@ -22,3 +22,7 @@ jquery.ready(function(){
   
  function init(){};
 });
+
+
+
+加载顺序约定:根->核心工具方法->Model->浏览器端工具方法->Shell->功能模块
