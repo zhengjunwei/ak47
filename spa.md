@@ -5,9 +5,12 @@
 <!doctype html>
 <html>
   <head>
+   
     <style src="spa.init.css"></style>
-    <script src="spa.shell.js"></script>
-   <script src="spa.main.js"></script>
+   <script src="spa.js"></script> 
+  <script src="spa.util.js"></script>
+  <script src="spa.shell.js"></script>
+  <script src="spa.caht.js"></script>
   </head>
   <body>
     <div id="spa"></div>
